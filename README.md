@@ -6,6 +6,10 @@ Inception is a system administration and ***DevOps*** project from ***School 42*
 
 Inception is a ***42 School*** project focused on system administration and ***DevOps*** fundamentals. It aims to build a secure, modular infrastructure with ***Docker*** and ***Docker Compose***. Services include ***WordPress***, ***Nginx***, ***MariaDB***, ***Redis***, ***FTP***, ***Adminer***, ***Portainer***, and a static website.
 
+## 📸 Preview
+
+![screenshot](./inception.png)
+
 ## Services
 
 - Nginx (reverse proxy with SSL)  
